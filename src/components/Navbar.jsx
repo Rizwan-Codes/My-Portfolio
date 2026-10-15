@@ -151,8 +151,8 @@ function Navbar() {
         {/* Desktop CTA */}
 
         <a
-          href="/RizwanAli.PDF"
-          download="Rizwan-CV.pdf"
+          href="/rizwanali.PDF"
+          download="rizwanali.pdf"
           className="hidden rounded-full border border-secondary px-5 py-2.5 text-sm font-semibold text-primary transition duration-300 hover:shadow-lg hover:shadow-secondary/25 md:inline-flex"
         >
           Download CV
@@ -230,8 +230,8 @@ function Navbar() {
 
 
             <a
-              href="/RizwanAli.PDF"
-              download="Rizwan-CV.pdf"
+              href="/rizwanali.PDF"
+              download="rizwanali.pdf"
               tabIndex={menuOpen ? 0 : -1}
               className="mt-2 rounded-xl border border-secondary px-4 py-3 text-center text-sm font-semibold text-primary"
             >
