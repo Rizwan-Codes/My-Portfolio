@@ -108,7 +108,7 @@ function Navbar() {
     <header className="sticky top-0 z-50 border-b font-serat border-white/10 bg-back/90 shadow-lg shadow-black/5 backdrop-blur-xl">
       <nav
         aria-label="Main navigation"
-        className="mx-auto flex min-h-19 max-w-7xl items-center justify-between px-5"
+        className="mx-auto flex min-h-19 max-w-7xl items-center justify-between"
       >
         {/* Logo */}
         <a
