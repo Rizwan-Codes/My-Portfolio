@@ -145,7 +145,7 @@ function Contact() {
 
               {/* Email */}
               <motion.a
-                href="mailto:your-email@example.com"
+                href="mailto:imrizwan120@gmail.com"
                 whileHover={
                   shouldReduceMotion ? undefined : { x: 4 }
                 }
@@ -160,7 +160,7 @@ function Contact() {
                     Email me at
                   </span>
                   <span className="mt-1 block break-all text-sm font-medium text-white">
-                    your-email@example.com
+                    imrizwan120@gmail.com
                   </span>
                 </span>
 
@@ -181,7 +181,7 @@ function Contact() {
                     Based in
                   </span>
                   <span className="mt-1 block text-sm font-medium text-white">
-                    Punjab, Pakistan
+                    Lahore, Punjab, Pakistan
                   </span>
                   <span className="mt-1 block text-xs text-gray-500">
                     Open to remote opportunities
@@ -219,7 +219,7 @@ function Contact() {
                   </motion.a>
 
                   <motion.a
-                    href="https://www.linkedin.com/"
+                    href="https://www.linkedin.com/in/rizwan-ali-web-dev/"
                     target="_blank"
                     rel="noreferrer"
                     aria-label="LinkedIn profile"
@@ -301,7 +301,7 @@ function Contact() {
                     required
                     value={formData.name}
                     onChange={handleChange}
-                    placeholder="John Doe"
+                    placeholder="Your Name"
                     className={inputClasses}
                   />
                 </motion.div>
@@ -322,7 +322,7 @@ function Contact() {
                     required
                     value={formData.email}
                     onChange={handleChange}
-                    placeholder="john@example.com"
+                    placeholder="your-email@example.com"
                     className={inputClasses}
                   />
                 </motion.div>
