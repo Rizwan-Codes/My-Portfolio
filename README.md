@@ -1,4 +1,4 @@
-# My Portfolio — Frontend Developer
+## My Portfolio — Frontend Developer
 
 A modern, responsive portfolio website built to showcase my skills, featured projects, and journey as a Frontend Developer. Designed with a clean user interface, smooth animations, and a focus on user experience across different screen sizes.
 
